@@ -23,3 +23,6 @@ for key in point:
     print(key, point[key])
 
 #DICTIONARY COMPREHENSIONS
+values = {x: x*2 for x in range(10)}
+print(values)
+
