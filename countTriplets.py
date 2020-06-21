@@ -16,4 +16,4 @@ def countTriplets(arr, r):
 
     return count
 
-countTriplets([1,2,2,4],2)
+print(countTriplets([1,3,9,9,27,81],3))
